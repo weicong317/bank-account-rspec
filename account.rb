@@ -1,3 +1,5 @@
+require "byebug"
+
 class Account
   attr_reader :transactions
 
